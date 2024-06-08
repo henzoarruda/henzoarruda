@@ -15,7 +15,7 @@
     
 ##
 
-### Algumas das tecnologias que utilizo nos meu dia a dia e que venho estudando 💻
+### Algumas das tecnologias que venho estudando e pretendo dominnar num futuro 💻
 
 </div>
     
