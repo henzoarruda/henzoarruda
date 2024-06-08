@@ -15,7 +15,7 @@
     
 ##
 
-### Algumas das tecnologias que utilizo nos meu dia a dia e que venho estudando 💻 ou trocar por "Habilidades Técnicas"
+### Algumas das tecnologias que utilizo nos meu dia a dia e que venho estudando 💻
 
 </div>
     
@@ -36,8 +36,8 @@
 ##
 
 <div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henzoarruda&show_icons=true&theme=aura&count_private=true"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=henzoarruda&show_icons=true&show_icons=true&theme=aura&count_private=true" />
+<img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henzoarruda&show_icons=true&theme=aura&count_private=true"/>
+<img height = "180em" src="https://github-readme-stats.vercel.app/api?username=henzoarruda&show_icons=true&show_icons=true&theme=aura&count_private=true" />
 </div>
 
 <!--
